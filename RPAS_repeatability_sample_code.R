@@ -1,4 +1,4 @@
-# R code for paper titled "Evaluating the repeatability of RPAS surveys to monitor submerged seagrass habitats"
+# R code for paper titled "Evaluating the reproducibility of RPAS surveys to monitor submerged seagrass habitats"
 
 #STEPS:
 #   1) Supplementing training data *

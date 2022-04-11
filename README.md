@@ -1,6 +1,6 @@
-**RPAS_repeatability**
+**RPAS_reproducibility**
 
-Code for paper Evaluating the repeatability of RPAS surveys to monitor submerged seagrass habitats
+Code for paper Evaluating the reproducibility of RPAS surveys to monitor submerged seagrass habitats
 
 Code includes:
 
